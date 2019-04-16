@@ -1,5 +1,5 @@
 var banners =
-  ["Os melhores do Brasil", "Qualidade e preço baixo!"];
+  ["Os melhores do Brasil", "Qualidade e pre\u00e7o baixo!"];
   
 var bannerAtual = 0;
 
